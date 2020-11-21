@@ -12,4 +12,4 @@ Soccer players have a variety of skills such as passing, tackling, shooting and 
 
 [Download paper here](https://lirias.kuleuven.be/retrieve/544586)
 
-Recommended citation: Verstraete, K. (2020). "Analyzing Soccer Players’ Skill Ratings Over Time Using Tensor-Based Methods" <i>Communications in Computer and Information Science 1</i>. vol 1168.
+Recommended citation: Verstraete, K. et al., 2020. "Analyzing Soccer Players’ Skill Ratings Over Time Using Tensor-Based Methods" <i>Communications in Computer and Information Science 1</i>. vol 1168.
