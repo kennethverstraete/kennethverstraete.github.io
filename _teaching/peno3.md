@@ -2,7 +2,7 @@
 title: "Probleemoplossen en ontwerpen, deel 3"
 collection: teaching
 type: "Undergraduate course"
-permalink: "https://onderwijsaanbod.kuleuven.be/syllabi/n/H01D4BN.htm"
+permalink: [Probleemoplossen en ontwerpen, deel 3](https://onderwijsaanbod.kuleuven.be/syllabi/n/H01D4BN.htm)
 venue: "KU Leuven, Faculty of Engineering Science"
 date: 2019-09-23
 location: "Leuven, Belgium"
