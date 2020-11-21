@@ -33,6 +33,7 @@ Skills
   * On clinical data (patient information)
   * On wearable sensor data (ECG, EEG)
 * Microsoft Office
+* Windows/Linux
 
 Publications
 ======
@@ -49,7 +50,7 @@ Teaching
 Service and leadership
 ======
 * 2018-2020: Coach for CoderDojo
-  * CoderDojo is a global volunteer-led community of free programming clubs for young people between 7 and 18. As a coach, I supported these children a few hours a month.
+  * [CoderDojo](https://coderdojo.com/) is a global volunteer-led community of free programming clubs for young people between 7 and 18. As a coach, I supported these children a few hours a month.
 * 2018-2019: Personal buddy for international KU Leuven students
   * The Buddy Programme organised by KU Leuven helps international students integrate in Leuven by showing them around and organising activities.
 * 2015-2017: Hallway responsible at a student residence from the KU Leuven
