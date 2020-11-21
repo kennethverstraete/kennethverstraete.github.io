@@ -1,7 +1,7 @@
 ---
 title: "Probleemoplossen en ontwerpen, deel 3"
 collection: teaching
-type: "Undergraduate course"
+type: "2nd-year bachelor of Engineering Science course"
 permalink: "/teaching/peno3"
 venue: "KU Leuven, Faculty of Engineering Science"
 date: 2019-09-23
