@@ -12,9 +12,9 @@ location: "Leuven, Belgium"
 learned the appropriate design methodology. I am a teaching assistant to guide them throughout this process.
 
 2019 - 2020: Smart home monitoring tool for elderly people
-======
+------
 The students developed a tool that can be used to monitor elderly people (in retirement homes or living alone). They used heart rate (ECG), oxygen saturation (PPG) and step counter data to check if everything is fine with monitored subjects.
 
 2020 - 2021: Smart monitoring tool for COVID-19 detection
-======
+------
 Due to the big impact of COVID-19 worldwide, the students developed a tool that can be used to detect symptoms in patients at risk. For this they used data from ECG signals to extract heart rate, heart rate variability and respiratory rate, PPG signals to extract oxygen saturation and temperature signals to detect fever.
