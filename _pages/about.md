@@ -14,11 +14,11 @@ Research
 ======
 My current research topics include:
 * Main projects:
-  * Predicting individual treatment response using the data from randomized controlled trials: facing the fundamental problem of causal inference, I'm researching models to predict treatment effects and I'm exploring validation methodologies since the standard methods cannot be applied in this framework.
-  * COPD phenotyping: using data from large COPD patient cohorts, I try to extract phenotypes based on baseline parameters, CT measures and spirometry in this heterogeneous complex disease.
+    * Predicting individual treatment response using the data from randomized controlled trials: facing the fundamental problem of causal inference, I'm researching models to predict treatment effects and I'm exploring validation methodologies since the standard methods cannot be applied in this framework.
+    * COPD phenotyping: using data from large COPD patient cohorts, I try to extract phenotypes based on baseline parameters, CT measures and spirometry in this heterogeneous complex disease.
 * Side projects:
-  * Classification in pulmonary hypertension: develop a machine-learning model that can distinguish patients with pulmonary arterial hypertension from patients with pulmonary hypertension due to left-heart disease.
-  * Prediction of exacerbations in COPD based on physical activity: use the data from wearable sensors to detect patterns in physical activity that can predict acute exacerbations before their onset.
+    * Classification in pulmonary hypertension: develop a machine-learning model that can distinguish patients with pulmonary arterial hypertension from patients with pulmonary hypertension due to left-heart disease.
+    * Prediction of exacerbations in COPD based on physical activity: use the data from wearable sensors to detect patterns in physical activity that can predict acute exacerbations before their onset.
 
 Master's theses
 ======
