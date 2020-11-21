@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc in Engineering Science: Computer Science, KU Leuven, 2017
+* MSc in Artificial Intelligence, KU Leuven, 2019
+* PhD in Biomedical Sciences and Engineering Science: Electrical Engineering, KU Leuven, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: R&D Engineer
+  * [Barco](https://www.barco.com/)
+  * Duties included: Working on the Jenkins pipeline for continuous integration. Handled the automatic generation of code coverage reports. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2017 - February 2018: R&D Engineer
+  * [Televic, Rail division](https://www.televic-rail.com/en)
+  * Duties included: Developed the audio and video streaming software and the central control unit for [CAF Civity trains in England](https://www.televic-rail.com/en/references/caf-northern-class-195-civity).
   
 Skills
 ======
