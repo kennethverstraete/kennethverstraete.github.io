@@ -2,19 +2,16 @@
 title: "Probleemoplossen en ontwerpen, deel 3"
 collection: teaching
 type: "Undergraduate course"
-permalink: [Probleemoplossen en ontwerpen, deel 3](https://onderwijsaanbod.kuleuven.be/syllabi/n/H01D4BN.htm)
+permalink: "/teaching/peno3"
 venue: "KU Leuven, Faculty of Engineering Science"
 date: 2019-09-23
 location: "Leuven, Belgium"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+In this course, students learn to tackle a large engineering project in groups of 4-6 students. They are
+learned the appropriate design methodology. I am a teaching assistant to guide them throughout this process.
+2019 - 2020: Smart monitoring tool for elderly people
 ======
 
-Heading 2
-======
-
-Heading 3
+2020 - 2021: Smart monitoring for COVID-19 detection
 ======
