@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Ir. Kenneth Verstraete"
   avatar           : "profile.png"
-  bio              : "Clinical data scientsit and 2nd-year PhD researcher at KU Leuven, Belgium."
+  bio              : "2nd-year PhD researcher at KU Leuven, Belgium."
   location         : "Belgium"
   employer         : "KU Leuven"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=kenneth+verstraete"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=kenneth+verstraete"
   googlescholar    : 
-  email            : kenneth.verstraete@kuleuven.be
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "kenneth.verstraete@kuleuven.be"
+  researchgate     :  "https://www.researchgate.net/profile/Kenneth_Verstraete3"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kennethverstraete/"
   orcid            : "https://orcid.org/0000-0003-3790-417X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
