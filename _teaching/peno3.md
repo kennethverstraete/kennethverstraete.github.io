@@ -8,7 +8,7 @@ date: 2019-09-23
 location: "Leuven, Belgium"
 ---
 
-In this course, students learn to tackle a large engineering project in groups of 4-6 students. They are
+[In this course](https://onderwijsaanbod.kuleuven.be/syllabi/n/H01D4BN.htm), students learn to tackle a large engineering project in groups of 4-6 students. They are
 learned the appropriate design methodology. I am a teaching assistant to guide them throughout this process.
 
 2019 - 2020: Smart monitoring tool for elderly people
