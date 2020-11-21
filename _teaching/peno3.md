@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: "/teaching/peno3"
 venue: "KU Leuven, Faculty of Engineering Science"
-date: 2019 - now
+date: 2019 - 2020
 location: "Leuven, Belgium"
 ---
 
