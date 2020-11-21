@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ir. Kenneth Verstraete"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Clinical data scientsit and 2nd-year PhD researcher at KU Leuven, Belgium."
   location         : "Belgium"
-  employer         :
+  employer         : "KU Leuven"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=kenneth+verstraete"
   googlescholar    : 
   email            : kenneth.verstraete@kuleuven.be
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3790-417X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
