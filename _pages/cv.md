@@ -18,21 +18,21 @@ Education
 Work experience
 ======
 * Summer 2018: R&D Engineer
-  * [Barco](https://www.barco.com/)
+  * [Barco](https://www.barco.com/), Kortrijk, Belgium
   * Duties included: Working on the Jenkins pipeline for continuous integration. Handled the automatic generation of code coverage reports. 
 
 * October 2017 - February 2018: R&D Engineer
-  * [Televic, Rail division](https://www.televic-rail.com/en)
+  * [Televic, Rail division](https://www.televic-rail.com/en), Izegem, Belgium
   * Duties included: Developed the audio and video streaming software and the central control unit for [CAF Civity trains in England](https://www.televic-rail.com/en/references/caf-northern-class-195-civity).
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python, Java, C/C++, R, Matlab, Fortran, Haskell, Prolog, Rust
+* Machine learning: all models ranging from logistic regression and K-nearest neighbours to gradient boosting and deep learning
+  * On clinical data (patient information)
+  * On wearable sensor data (ECG, EEG)
+* Microsoft Office
 
 Publications
 ======
