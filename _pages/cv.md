@@ -40,12 +40,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -54,4 +48,11 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2018-2020: Coach for CoderDojo
+  * CoderDojo is a global volunteer-led community of free programming clubs for young people between 7 and 18. As a coach, I supported these children a few hours a month.
+* 2018-2019: Personal buddy for international KU Leuven students
+  * The Buddy Programme organised by KU Leuven helps international students integrate in Leuven by showing them around and organising activities.
+* 2015-2017: Hallway responsible at a student residence from the KU Leuven
+  * Keeping things in order, managing the budget and organising activities.
+
+
