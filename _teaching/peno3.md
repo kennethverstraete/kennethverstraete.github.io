@@ -10,6 +10,7 @@ location: "Leuven, Belgium"
 
 In this course, students learn to tackle a large engineering project in groups of 4-6 students. They are
 learned the appropriate design methodology. I am a teaching assistant to guide them throughout this process.
+
 2019 - 2020: Smart monitoring tool for elderly people
 ======
 
