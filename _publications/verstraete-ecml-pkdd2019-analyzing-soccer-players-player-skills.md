@@ -11,5 +11,3 @@ citation: 'Verstraete K., Decroos T., Coussement B., Vannieuwenhoven N., Davis J
 Soccer players have a variety of skills such as passing, tackling, shooting and dribbling. However, their abilities are not fixed and evolve over time. Understanding this evolution could be interesting from many perspectives. We analyze player skill data from the FIFA video game series by EA Sports using tensor methods.
 
 [Download paper here](https://lirias.kuleuven.be/retrieve/544586)
-
-Recommended citation: Verstraete, K. et al., 2020. "Analyzing Soccer Players’ Skill Ratings Over Time Using Tensor-Based Methods" <i>Communications in Computer and Information Science 1</i>. vol 1168.
